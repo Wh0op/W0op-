@@ -25,11 +25,9 @@
   <img src="https://github-readme-stats-ruby-two-32.vercel.app/api/top-langs/?username=Wh0op&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Wh0op's languages" />
 </p>
 
----
-
-## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wh0op&theme=radical&no-frame=true&column=6" alt="Wh0op's trophies" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wh0op&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -38,8 +36,4 @@
 <p align="center">
   <a href="mailto:email@anda.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red" /></a>
   <a href="https://portfolio-anda.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wh0op&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
