@@ -34,6 +34,6 @@
 
 ## 📫 Let's Connect
 <p align="center">
-  <a href="mailto:email@anda.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="zavkyyy@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red" /></a>
   <a href="https://portfolio-anda.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
